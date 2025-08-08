@@ -23,18 +23,18 @@ It does **not** attempt to diagnose or provide mental health advice.
 ---
 
 ## 📂 Project Structure
-reddit-mental-health-sentiment/
-│
-├── data/ # Raw and cleaned datasets
-├── notebooks/ # Jupyter Notebooks for EDA & modeling
-├── src/ # Python scripts for scraping, preprocessing, modeling
-│ ├── fetch_data.py
-│ ├── preprocess.py
-│ └── sentiment_analysis.py
-│
-├── .gitignore
-├── README.md
-├── requirements.txt
+reddit-mental-health-sentiment/   
+│   
+├── data/ # Raw and cleaned datasets   
+├── notebooks/ # Jupyter Notebooks for EDA & modeling    
+├── src/ # Python scripts for scraping, preprocessing, modeling    
+│ ├── fetch_data.py   
+│ ├── preprocess.py   
+│ └── sentiment_analysis.py   
+│    
+├── .gitignore    
+├── README.md    
+├── requirements.txt    
 
 
 ---
